@@ -21,6 +21,26 @@
 - Firebase
 - mongodb
 
+## Installation
+
+For install dependency:
+
+```sh
+npm install
+```
+
+For run the project:
+
+```sh
+npm run dev
+```
+
+For build the project:
+
+```sh
+npm run build
+```
+
 
 Live Site: [https://www.bistroboss.com](https://bistro-boss-4c0b8.web.app/)
 
